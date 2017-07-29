@@ -6,7 +6,6 @@ Time spent: 3 hours spent in total
 ## User Stories
 
 The following **required** functionality is completed:
-
  
 1. [x]  Required: Challenge 0 - Cross-site scripting Introduction
 2. [x]  Required: Challenge 1 - Cross-site scripting 1
@@ -22,7 +21,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/zakia00/Week2Lab/blob/master/week2.gif' title='Video Walkthrough of Week3 Lab' width='' alt='Video Walkthrough' />
+<img src='https://github.com/zakia00/Week3Lab/blob/master/week3.gif' title='Video Walkthrough of Week3 Lab' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
